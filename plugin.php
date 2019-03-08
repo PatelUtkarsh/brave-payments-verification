@@ -52,7 +52,6 @@ class BraveWellKnownUriPlugin {
    */
   public static function activate_plugin() {
     self::add_rewrite_rules();
-    flush_rewrite_rules();
   }
 
   /**
