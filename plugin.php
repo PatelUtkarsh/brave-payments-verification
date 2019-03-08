@@ -1,11 +1,11 @@
 <?php
 /**
-Plugin Name: Brave Payments Verification
-Plugin URI: http://wordpress.org/extend/plugins/brave-payments-verification/
-Description: This plugin creates the /.well-known/brave-payments-verification.txt file. See Settings: Brave Payments Verification for details.
-Version: 1.0.4
-Author: Brave Software Intl
-Author URI: https://github.com/brave-intl/brave-payments-verification/
+ * Plugin Name: Brave Payments Verification
+ * Plugin URI: http://wordpress.org/extend/plugins/brave-payments-verification/
+ * Description: This plugin creates the /.well-known/brave-payments-verification.txt file. See Settings: Brave Payments Verification for details.
+ * Version: 1.0.4
+ * Author: Brave Software Intl
+ * Author URI: https://github.com/brave-intl/brave-payments-verification/
  */
 
 /**
